@@ -1,3 +1,5 @@
+# Perfect Roasted Chicken
+
 1. Procure any number of chicken parts. You can try larger or smaller pieces, or even a whole bird if you want. I prefer thighs, myself, and tend to cook 6-8 at a time. Breasts also work beautifully, but expect them to be a little bit drier. Do not use boneless cuts.
 2. Preheat your oven to 450 degrees. Check the temperature using a standalone oven thermometer. I make no guarantees about the results of your cooking endeavors if you deign to trust your oven's built-in thermometer.
 3. Place the chicken parts _skin side up_ in a large, rectangular baking pan (with steep sides). There should be some space between them.
