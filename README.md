@@ -23,4 +23,4 @@ I love cooking and learning about food. I have met quite a few developers who fe
 ### Recipes
 
 - [Perfect Roasted Chicken](recipes/perfect-roasted-chicken.md)
-- [Greek Salad for Winners](recipes/greek-salad-for-winners-md)
+- [Greek Salad for Winners](recipes/greek-salad-for-winners.md)
