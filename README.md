@@ -27,3 +27,4 @@ _Pull requests made in the implied spirit of this repo are welcome and encourage
 - [Perfect Roasted Chicken](recipes/perfect-roasted-chicken.md)
 - [Greek Salad for Winners](recipes/greek-salad-for-winners.md)
 - [World's Greatest Tomato Sauce](recipes/worlds-greatest-tomato-sauce.md)
+- [Shakshuka, Because Your Breakfast is Boring](recipes/shakshuka.md)
