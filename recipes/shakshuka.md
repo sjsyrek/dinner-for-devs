@@ -9,7 +9,7 @@ I first ate shakshuka many years ago at a hard-to-find but supposedly famous lit
 - [World's Greatest Tomato Sauce](worlds-greatest-tomato-sauce.md) or other, inferior tomato sauce
 - extra virgin olive oil
 - the number of eggs you would like to eat
-- harissa or other spicy red pepper paste (it's fun to make your own, but you can just buy it, too)
+- harissa or other spicy red pepper paste (it's fun to [make your own](http://www.epicurious.com/recipes/food/views/harissa-51185010), but you can just buy it, too)
 - ground cumin
 - salt and freshly ground black pepper
 - red bell pepper, sliced to your liking (optional)
