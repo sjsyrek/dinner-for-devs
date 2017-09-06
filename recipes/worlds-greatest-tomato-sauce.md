@@ -9,7 +9,7 @@ I always thought I would take this recipe, more like a family tradition, to my g
 _Note: I do this largely through intuition, so I don't have exact measurements to offer. Adjust the amounts of these ingredients to your taste and depending on how much sauce you are making. I generally fill a five quart sauce pan and freeze whatever I'm not using immediately. This is the best way to go._
 
 - Canned San Marzano tomatoes: whole, crushed, or pureed (stop here if you're not willing to use them or incorrectly think that fresh tomatoes are better—your fresh tomatoes will never be good enough)
-- As many Italian sausages as you can fit into the pan, one layer with room to breathe, preferably fennel but garlic is OK (leave them out for the vegan version, which I made for years)
+- As many Italian sausages as you can fit into the pan, one layer with room to breathe, preferably fennel but garlic is OK (leave them out for the vegan version, which I made for years so don't worry it's fine)
 - Whole cloves of fresh garlic, peeled and thinly sliced
 - Fresh basil
 - Extra virgin olive oil
