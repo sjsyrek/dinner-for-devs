@@ -1,5 +1,7 @@
 # Greek Salad for Winners
 
+_By Steven Syrek_
+
 I refused to eat tomatoes for the first 25 years of my life, because for my entire childhood I was only ever served watery, pink tomatoes from late 20th century supermarket chains. Then I went to Greece. I was a vegetarian at the time, and if you're a vegetarian in Greece there's nothing to eat except tomatoes. Lucky for me. This is one of those recipes that's really just a mixture of good ingredients. Use good ingredients and get good results. Use bad ingredients and you might as well consume Soylent. In other words, use good ingredients. And get the best Greek salad ever.
 
 ## Ingredients

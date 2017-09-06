@@ -1,5 +1,7 @@
 # Perfect Roasted Chicken
 
+_By Steven Syrek_
+
 Roast chicken is delightful and makes life better. This recipe is dead simple to prepare once you know it by heart, which you will after doing it once. You will also please everyone you serve it to, in addition to yourself. It requires only basic ingredients—hence the lack of an ingredients section—and it's hard to get it wrong; chicken is rather forgiving even if you do. The trick is not to overcook it. I like the meat to touch 145 degrees Fahrenheit at the center, i.e. less than the [USDA recommendation](https://www.foodsafety.gov/keep/charts/meatchart.html) of 165 degrees. This recipe will, depending on your oven, probably get you somewhere in between. Keep your prep area clean, treat raw chicken like toxic waste, and use a meat thermometer. But food safety involves a [number of factors](http://blog2.thermoworks.com/2016/04/thermal-tips-simple-roasted-chicken/), so don't trust me or [anyone else](http://www.barfblog.com/2017/03/cookbooks-give-readers-mostly-bad-advice-on-food-safety/). Do your own research, draw your own conclusions, and don't come to me with your salmonella concerns. Also, if you do it right, the skin comes out awesome.
 
 1. Procure any number of chicken parts. You can try larger or smaller pieces, or even a whole bird if you want (definitely use a thermometer in this case). I prefer thighs, myself, and tend to cook 6-8 at a time. Breasts also work beautifully, but expect them to be a little bit drier. Do not use boneless cuts.
