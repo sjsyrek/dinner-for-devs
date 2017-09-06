@@ -2,11 +2,11 @@
 
 _By Steven Syrek_
 
-I first ate shakshuka many years ago at a hard-to-find but supposedly famous little place called [Dr. Shakshuka](http://www.doctorshakshuka.co.il/) in Jaffa, Israel. The menu was entirely in Hebrew, and nobody there spoke English. I indicated to the nice woman who came to take my order that I would like to eat something. She smiled knowingly and before I knew it was piling my table with—I'm pretty sure—every item on the menu. And charged me for, at most, one of them. And so this dish became one of those travel discoveries I had to incorporate into my repertoire. Casting about for recipes, I eventually landed on a version by [Yotam Ottolenghi and Sami Tamimi](http://www.epicurious.com/recipes/food/views/shakshuka-with-red-peppers-and-cumin-56389454) in their excellent [Jerusalem: A Cookbook](http://a.co/gnqU3ye). They were inspired by Dr. Shakshuka. Anyway, you can certainly just make their version, or any other—there are many. This one is the lazy programmer's version, a perfect breakfast of first resort, especially if you already made [tomato sauce](recipes/worlds-greatest-tomato-sauce.md).
+I first ate shakshuka many years ago at a hard-to-find but supposedly famous little place called [Dr. Shakshuka](http://www.doctorshakshuka.co.il/) in Jaffa, Israel. The menu was entirely in Hebrew, and nobody there spoke English. I indicated to the nice woman who came to take my order that I would like to eat something. She smiled knowingly and before I knew it was piling my table with—I'm pretty sure—every item on the menu. And charged me for, at most, one of them. And so this dish became one of those travel discoveries I had to incorporate into my repertoire. Casting about for recipes, I eventually landed on a version by [Yotam Ottolenghi and Sami Tamimi](http://www.epicurious.com/recipes/food/views/shakshuka-with-red-peppers-and-cumin-56389454) in their excellent [Jerusalem: A Cookbook](http://a.co/gnqU3ye). They were inspired by Dr. Shakshuka. Anyway, you can certainly just make their version, or any other—there are many. This one is the lazy programmer's version, a perfect breakfast of first resort, especially if you already made [tomato sauce](worlds-greatest-tomato-sauce.md).
 
 ## Ingredients
 
-- [World's Greatest Tomato Sauce](recipes/worlds-greatest-tomato-sauce.md)
+- [World's Greatest Tomato Sauce](worlds-greatest-tomato-sauce.md) or other, inferior tomato sauce
 - extra virgin olive oil
 - the number of eggs you would like to eat
 - harissa or other spicy red pepper paste (it's fun to make your own, but you can just buy it, too)
