@@ -19,10 +19,11 @@ _Pull requests made in the implied spirit of this repo are welcome and encourage
 - "Burnt" is not a flavor.
 - Blanch and shock veggies before cooking them, if you can spare the time. That means having ice available. It's worth it.
 - Learn how to cut onions correctly. Do not dice them. Do not cut off the tip of your thumb.
-- Use a serrated blade when slicing tomatoes and other thin-skinned foods. Learn to use a paring knife. Use kitchen scissors to cut anything weird or stubborn. I use them to cut basil, because slicing it seems stupid.
+- Use a serrated blade when slicing tomatoes and other thin-skinned foods. Learn to use a paring knife. Use kitchen shears (the big scissors in the wooden knife block you bought at Target) to cut anything weird or stubborn. I use them to cut basil, because slicing it seems stupid.
 - Get an oven thermometer and use it. Get a meat thermometer and use it.
 
 ### Recipes
 
 - [Perfect Roasted Chicken](recipes/perfect-roasted-chicken.md)
 - [Greek Salad for Winners](recipes/greek-salad-for-winners.md)
+- [World's Greatest Tomato Sauce](recipes/worlds-greatest-tomato-sauce.md)
