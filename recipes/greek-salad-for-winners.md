@@ -18,4 +18,9 @@ I refused to eat tomatoes for the first 25 years of my life, because for my enti
 
 ## Preparation
 
-Use a serrated blade to slice the tomatoes and a regular knife (or chef's knife) to slice the cucumber, both into cubes or any other pleasing but bite-sized shape. Dump into a large bowl. Also cube the feta if it's in block form, and sprinkle the cheese on top—as much as you like, but don't be ridiculous. Add a reasonable number of olives (you'll eventually figure out the balance of ingredients you prefer). Drizzle olive oil on top with an open heart. Crumble a mindful amount of fresh oregano on top of that, add a restrained dash of salt, and grind over the whole thing a free-spirited soupçon of pepper. You can experiment with other ingredients, if you like. I will sometimes add some basil, cut up with kitchen scissors, or a few peppadews if the mood strikes me. Basically, you can just grab anything that looks good from the olive bar. But start with the basic premise first before elaborating the plot. Don't forget to toss your salad. Serve with compassion.
+1. Use a serrated blade to slice the tomatoes and a regular knife (or chef's knife) to slice the cucumber, both into cubes or any other pleasing but bite-sized shape. Dump into a large bowl.
+2. Also cube the feta if it's in block form, and sprinkle it on top—as much as you like, but don't be ridiculous.
+3. Add a reasonable number of olives (you'll eventually figure out the balance of ingredients you prefer).
+4. Drizzle olive oil on top with an open heart. Crumble a mindful amount of fresh oregano on top of that, add a restrained dash of salt, and grind over the whole salad a free-spirited soupçon of pepper.
+5. You can experiment with other ingredients, if you like. I will sometimes add some basil, cut up with kitchen scissors, or a few [peppadews](https://en.wikipedia.org/wiki/Peppadew) if the mood strikes me. Essentially, you can just grab anything that looks good from the olive bar. But start with the basic premise first before elaborating the plot.
+6. Don't forget to toss your salad. Serve with compassion.
