@@ -1,5 +1,7 @@
 # Matzo Balls
 
+_By Jennifer Kaplan_
+
 ## Ingredients
 
 4 eggs

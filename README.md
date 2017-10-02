@@ -34,3 +34,4 @@ _[Pull requests](https://github.com/sjsyrek/dinner-for-devs/pulls) made in the i
 - [Correct Pasta](recipes/correct-pasta.md)
 - [Shakshuka, Because Your Breakfast is Boring](recipes/shakshuka.md)
 - [Great Coffee Wherever You Go](recipes/great-coffee.md)
+- [Matzo Balls](recipes/matzo-balls.md)
