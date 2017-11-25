@@ -9,6 +9,8 @@ _[Pull requests](https://github.com/sjsyrek/dinner-for-devs/pulls) made in the i
 
 - Only use freshly ground black pepper (i.e. buy black peppercorns in a grinder). If you use pre-ground pepper from a shaker, please move on to a different website.
 - [Kosher salt](http://www.bonappetit.com/story/what-is-kosher-salt) is preferred to other varieties, but you can use fancy sea salt or whatever if you must. Don't use the cheap stuff.
+- Most dried herbs are a waste of money, but there are exceptions. Dried oregano is fine, for example (especially if you can get it still on its stalk), but dried basil and things like garlic salt are garbage. Learn to tell the difference.
+- Dry roast your spices before using them to bring out their flavors.
 - Do not purchase Parmesan cheese that looks like sawdust—[it probably is](https://www.bloomberg.com/news/articles/2016-02-16/the-parmesan-cheese-you-sprinkle-on-your-penne-could-be-wood).
 - [Plugrá butter](http://plugra.com/product-information/) or any butter with a slightly higher fat content ("European butter") is preferred, especially for baking. Do not buy salted butter. Certainly do not buy margarine, or I will find you.
 - Let butter warm to room temperature before you use it. Or just [don't refrigerate it at all](http://www.thekitchn.com/does-butter-really-need-to-be-refrigerated-224036). Likewise for [eggs](http://www.npr.org/sections/thesalt/2014/09/11/336330502/why-the-u-s-chills-its-eggs-and-most-of-the-world-doesnt).
