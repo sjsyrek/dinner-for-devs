@@ -3,7 +3,7 @@
 
 I love cooking and learning about food. I have met quite a few developers who feel the same way. Recipes are just like code, right? I have also met quite a few developers who do not feel this way, and who use ignorance as an excuse for a poor or uninteresting diet. Your meal choices are your own, but if you'd like to have a few easy-to-memorize, go-to dinner options, here are some possibilities for your next meal. Bon appétit!
 
-_[Pull requests](https://github.com/sjsyrek/dinner-for-devs/pulls) made in the implied spirit of this repo are welcome and encouraged. Please submit your own experience making a recipe as an [issue](https://github.com/sjsyrek/dinner-for-devs/issues)._
+_[Pull requests](https://github.com/sjsyrek/dinner-for-devs/pulls) made in the implied spirit of this repo are welcome and encouraged. Use the provided [recipe template](recipes/recipe-template.md). Please submit your own experience making a recipe as an [issue](https://github.com/sjsyrek/dinner-for-devs/issues)._
 
 ### Basic assumptions
 
@@ -24,7 +24,9 @@ _[Pull requests](https://github.com/sjsyrek/dinner-for-devs/pulls) made in the i
 - Use a serrated blade when slicing tomatoes and other thin-skinned foods. Learn to use a paring knife. Use kitchen shears (the big scissors in the wooden knife block you bought at Target) to cut anything weird or stubborn. I use them to cut basil, because slicing it seems stupid.
 - Deposit your "cheese grater" in the nearest trash receptacle and purchase a [microplane](https://us.microplane.com/kitchen_en_us/).
 - A [mandoline slicer](https://www.youtube.com/watch?v=At02GJDnVUs) can be handy, if you actually remember to use it. Try not to hurt yourself.
-- Get an oven thermometer and use it. Get a meat thermometer and use it.
+- Develop a relationship with a [cast iron skillet](http://a.co/7PTdZAl) as soon as possible. Learn [how to clean it](http://www.thekitchn.com/how-to-clean-a-cast-iron-skillet-cleaning-lessons-from-the-kitchn-107747) (hint: don't ever, _ever_ use dish soap), and make sure you keep it [seasoned](https://www.wikihow.com/Season-a-Cast-Iron-Skillet) so it doesn't rust. It will rapidly become your best friend.
+- Get an oven thermometer and use it.
+- Get a meat thermometer and use it.
 
 ### Recipes
 
@@ -35,3 +37,8 @@ _[Pull requests](https://github.com/sjsyrek/dinner-for-devs/pulls) made in the i
 - [Shakshuka, Because Your Breakfast is Boring](recipes/shakshuka.md)
 - [Great Coffee Wherever You Go](recipes/great-coffee.md)
 - [Matzo Balls](recipes/matzo-balls.md)
+- [Let Nothing Go to Waste Bone Broth](recipes/bone-broth.md)
+- [A Frittata for Leftovers, Especially Pasta](recipes/frittata-for-leftovers.md)
+- [Shirred Eggs for Lovers](recipes/shirred-eggs.md)
+- [Life-Changing Braised Pork Belly](recipes/braised-pork-belly.md)
+- [Cook One of Those Huge Japanese Sweet Potatoes](recipes/sweet-potatoes.md)
