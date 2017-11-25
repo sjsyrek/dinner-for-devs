@@ -25,3 +25,5 @@ Roast chicken is delightful and makes life better. This recipe is dead simple to
 10. Bake for another 15 minutes.
 11. Remove the pan from the oven, and let the chicken rest a few minutes, or until the pan juices calm down and stop burning you.
 12. Serve with rice and/or your favorite sides, reserving the pan juices for gravy. Or top with [World's Greatest Tomato Sauce](worlds-greatest-tomato-sauce.md).
+
+Consider saving the bones from your dinner for use with [Let Nothing Go to Waste Bone Broth](bone-broth.md).
