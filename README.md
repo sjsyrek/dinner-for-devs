@@ -42,5 +42,5 @@ _[Pull requests](https://github.com/sjsyrek/dinner-for-devs/pulls) made in the i
 - [Let Nothing Go to Waste Bone Broth](recipes/bone-broth.md)
 - [A Frittata for Leftovers, Especially Pasta](recipes/frittata-for-leftovers.md)
 - [Shirred Eggs for Lovers](recipes/shirred-eggs.md)
-- [Life-Changing Braised Pork Belly](recipes/braised-pork-belly.md)
+- [Life Changing Braised Pork Belly](recipes/braised-pork-belly.md)
 - [Cook One of Those Huge Japanese Sweet Potatoes](recipes/sweet-potatoes.md)

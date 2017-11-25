@@ -1,4 +1,4 @@
-# Life-Changing Braised Pork Belly
+# Life Changing Braised Pork Belly
 
 _By Steven Syrek_
 
