@@ -25,7 +25,7 @@ _By Steven Syrek_
 3. Add your cooking oil to the skillet. Allow it to heat up before adding any other ingredients.
 3. If you're cooking with raw meat, brown it in the oil and then remove.
 4. Sauté the onions until translucent. Add the garlic, if you're using it.
-5. Add in the veggies one type at a time, depending on how long they normally take to cook. Potatoes take longer than mushrooms take longer than peppers. If you're bold, you can even try cashews, pistachios, or hazelnuts. Rice is also an option. You probably have leftover rice from old Chinese takeout.
+5. Add in the veggies one type at a time, depending on how long they normally take to cook. Potatoes take longer than mushrooms take longer than peppers. If you're bold, you can even try cashews, pistachios, or hazelnuts. Rice is also an option. You probably have leftover rice from old Chinese takeout. As always, consider jalapeños.
 6. Add the meat, and mix it around. If you want to use tofu, add that now, too.
 7. Add the herbs and spices. You can't go wrong with a stalk or two of fresh coriander and parsley (chopped), a few fresh basil leaves, a handful of oregano, thyme, or majoram, a sprinkling of cumin seeds, or something hotter and spicier. Feel free to experiment. Add a teaspoon or so of salt. Add the pepper. Don't worry about overdoing it, because you're going to be adding eggs soon, and they need to be bullied around so they don't dominate the dish too much. Secret ingredient: a little bit of freshly ground nutmeg. _For the win_.
 8. Stir everything around and cook for another minute or two.
