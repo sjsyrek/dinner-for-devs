@@ -2,6 +2,8 @@
 
 _By Steven Syrek_
 
+![](images/frittata-for-leftovers.jpg)
+
 "Frittata" is literally the most delicious word to pronounce. It sparkles on the tongue, and everyone smiles when they hear it. Show up to a party with a frittata in hand, and you will be a hero as your humdrum get-together is transformed into a sophisticated midday meal at an Italian villa. This is a versatile dish, and even though it contains eggs, you should feel free to consume it for breakfast, lunch, dinner, or whatever you call that meal when you finally stumble into your home at 3 am after a night of drinking too much. In the latter case, you should probably make it ahead of time. Although it's not mandatory, you would be a fool not to try out the full blown version of this recipe, which requires you to first master my [World's Greatest Tomato Sauce](recipes/worlds-greatest-tomato-sauce.md) and [Correct Pasta](recipes/correct-pasta.md) recipes. One problem with both of those recipes is the amount of extra food you can end up with. While you should be using your extra sauce to make [shakshuka](recipes/shakshuka.md), what about all that pasta you thought you wanted to eat? Wonder no more.
 
 ## Ingredients
