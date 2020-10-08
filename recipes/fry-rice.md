@@ -1,5 +1,5 @@
 # Fry Rice
-*By Weathon*
+*By Wayne Guo (GitHUb: Weathon)*
 
 This is really easy to make and realy teaty, good for developers to cook when they are busy and do not want to order food. It might not be really healthy though, so do not eat that too much.
 
