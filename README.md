@@ -13,7 +13,7 @@ _[Pull requests](https://github.com/sjsyrek/dinner-for-devs/pulls) made in the i
 - Dry roast your spices before using them to bring out their flavors.
 - Do not purchase Parmesan cheese that looks like sawdust—[it probably is](https://www.bloomberg.com/news/articles/2016-02-16/the-parmesan-cheese-you-sprinkle-on-your-penne-could-be-wood).
 - [Plugrá butter](http://plugra.com/product-information/) or any butter with a slightly higher fat content ("European butter") is preferred, especially for baking. Do not buy salted butter. Certainly do not buy margarine, or I will find you.
-- Let butter warm to room temperature before you use it. Or just [don't refrigerate it at all](http://www.thekitchn.com/does-butter-really-need-to-be-refrigerated-224036). Likewise for [eggs](http://www.npr.org/sections/thesalt/2014/09/11/336330502/why-the-u-s-chills-its-eggs-and-most-of-the-world-doesnt).
+- Let butter warm to room temperature before you use it. Or just [don't refrigerate it at all](http://www.thekitchn.com/does-butter-really-need-to-be-refrigerated-224036). Likewise for [eggs](http://www.npr.org/sections/thesalt/2014/09/11/336330502/why-the-u-s-chills-its-eggs-and-most-of-the-world-doesnt). (But if your egg is refrigerated when you bought it, keep it refrigerate)
 - Get the best extra virgin olive oil you can find, preferably Greek.
 - Safflower oil is a good, healthy choice for high temperature cooking, including frying, but only when you specifically don't want the oil to have any flavor.
 - If you burn your cooking oil, dump it out and try again. It's ruined.
