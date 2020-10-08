@@ -1,7 +1,7 @@
 # Fry Rice
 *By Weathon*
 
-This is really to make and realy teaty, good for developers to cook when they are busy and do not want to order food. It might not be really healthy though, so do not eat that too much.
+This is really easy to make and realy teaty, good for developers to cook when they are busy and do not want to order food. It might not be really healthy though, so do not eat that too much.
 
 ```
 English is not my first language. So if there is anything confusing in the document, please help me fix it. 
