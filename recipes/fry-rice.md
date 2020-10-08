@@ -26,7 +26,7 @@ There are two ways to make fried rice, one is cook the egg first then add rice t
 1. Put oil in to pan, do not put too much
 2. Heat it a little bit, pour the egg in and fry it 
  
-<del> 3. When it is 80% cooked, take it out. then put oil in the pan agian, put all you sides in (Your chicken, shrimp, etc)</del>  
+3. <del> When it is 80% cooked, take it out. then put oil in the pan agian, put all you sides in (Your chicken, shrimp, etc)</del>  
 
 3. Find a new way: 
 When it is 80% cooked, breaked them in pieces, then put sides in  
