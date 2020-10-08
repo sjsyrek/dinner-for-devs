@@ -32,18 +32,22 @@ There are two ways to make fried rice, one is cook the egg first then add rice t
 When it is 80% cooked, breaked them in pieces, then put sides in  
 
 
-``` IF YOU.LIKE_RAW_GREEN_ONION == FALSE
+```
+IF YOU.LIKE_RAW_GREEN_ONION == FALSE
 put the onion in as well 
-End IF ``` 
+End IF 
+``` 
 
 4. Stir fry them a little bit them put the egg back in with rice
 <del> 6. Break the egg in to pieces </del>
 5. Continue stir fry them for a while
 6. Put soil sauce, salt, and maybe also pepper and paprika if you like.  
 
-``` IF YOU.LIKE_RAW_GREEN_ONION == TRUE
+``` 
+IF YOU.LIKE_RAW_GREEN_ONION == TRUE
 put the onion in at tis time  
-End IF ```  
+End IF 
+```  
 
 9. Stir them and ready to serve
 
