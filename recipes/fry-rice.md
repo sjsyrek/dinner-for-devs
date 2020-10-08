@@ -12,7 +12,7 @@ so this recipt is just based on my not-much experience. So if you have any way t
 ## Ingredients
 - Egg
 - Rice (Me and most Chinese like to use cold rice, because they are dried, so it is easy to fry)
-- Chopped Green Onion
+- Chopped Green Onion (If you like it)
 - Luncheon meat (oppotional)
 - Salt
 - Any other things you want to add
@@ -52,3 +52,17 @@ End IF
 9. Stir them and ready to serve
 
 some people like more soy sause while others like more salt-and-onion flavour. Depend on you, you can choice which way to cook.
+
+
+
+### The second way
+
+1. Break an egg into a big bowl with rice
+2. Stir them together, let most of the rice covered by the egg liquid
+3. Put oil into pan, heat it a little bit
+4. Put your sides in, stir fry them for a while. (Same as the first way, put the onion in now if you do not like raw onion.)
+5. Put the Rice in, make it "paved" the pan, maybe you want to depress them for a little bit
+6. Fry it for a while
+7. Stir the rice, add repeat the step 5 for couple times untill the egg is cooked through and become nicely golden color. Do not burn it.
+8. Put soil sauce, salt, and maybe also pepper and paprika if you like. 
+9. Stir them well and ready to serve.
