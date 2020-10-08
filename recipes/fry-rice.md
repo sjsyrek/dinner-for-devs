@@ -62,7 +62,7 @@ some people like more soy sauce while others like more salt-and-onion flavor. De
 3. Put oil into the pan, heat it a little bit
 4. Put your sides in, stir fry them for a while. (Same as the first way, put the onion in now if you do not like raw onion.)
 5. Put the Rice in, make it "paved" the pan, maybe you want to depress them for a little bit
-6. Fry it for a while
+6. Let it sit there and fry it for a while 
 7. Stir the rice, add repeat step 5 for a couple of times until the egg is cooked through and become a nicely golden color. Do not burn it.
 8. Put soil sauce, salt, and maybe also pepper and paprika if you like. 
 9. Stir them well and ready to serve.
