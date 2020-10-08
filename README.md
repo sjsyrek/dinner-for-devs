@@ -44,3 +44,4 @@ _[Pull requests](https://github.com/sjsyrek/dinner-for-devs/pulls) made in the i
 - [Shirred Eggs for Lovers](recipes/shirred-eggs.md)
 - [Life Changing Braised Pork Belly](recipes/braised-pork-belly.md)
 - [Cook One of Those Huge Japanese Sweet Potatoes](recipes/sweet-potatoes.md)
+- [Chinese Style Ege Fry Rice](recipes/fry-rice.md)
