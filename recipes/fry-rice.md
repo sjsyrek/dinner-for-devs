@@ -22,9 +22,23 @@ There are two ways to make fried rice, one is cook the egg first then add rice t
 
 ### The first way
 
-1. Put oil in to pan
-
+0. Beat (I mean mix the egg, I don't know if this is the right term) eggs
+1. Put oil in to pan, do not put too much
+2. Heat it a little bit, pour the egg in and fry it
+<del> 3. When it is 80% cooked, take it out.
+4. Put oil in the pan agian, put all you sides in (Your chicken, shrimp, etc)</del>
+Find a new way:
+When it is 80% cooked, breaked them in pieces, then put sides in
 ``` IF YOU.LIKE_RAW_GREEN_ONION == FALSE```
-
+put the onion in as well
+``` End IF ``` 
+5. Stir fry them a little bit them put the egg back in with rice
+<del> 6. Break the egg in to pieces </del>
+7. Continue stir fry them for a while
+8. Put soil sauce, salt, and maybe also pepper and paprika if you like.
+``` IF YOU.LIKE_RAW_GREEN_ONION == TRUE```
+put the onion in at tis time
+``` End IF ``` 
+9. Stir them and ready to serve
 
 some people like more soy sause while others like more salt-and-onion flavour. Depend on you, you can choice which way to cook.
