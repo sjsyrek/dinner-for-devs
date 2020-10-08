@@ -41,7 +41,7 @@ End IF
 4. Stir fry them a little bit them put the egg back in with rice
 <del> 6. Break the egg into pieces </del>
 5. Continue stir fry them for a while
-6. Put soil sauce, salt, and maybe also pepper and paprika if you like.  
+6. Put soy sauce, salt, and maybe also pepper and paprika if you like.  
 
 ``` 
 IF YOU.LIKE_RAW_GREEN_ONION == TRUE
@@ -64,5 +64,5 @@ some people like more soy sauce while others like more salt-and-onion flavor. De
 5. Put the Rice in, make it "paved" the pan, maybe you want to depress them for a little bit
 6. Let it sit there and fry it for a while 
 7. Stir the rice, add repeat step 5 for a couple of times until the egg is cooked through and become a nicely golden color. Do not burn it.
-8. Put soil sauce, salt, and maybe also pepper and paprika if you like. 
+8. Put soy sauce, salt, and maybe also pepper and paprika if you like. 
 9. Stir them well and ready to serve.
