@@ -16,7 +16,7 @@ so this recipe is just based on my not-much experience. So if you have any way t
 - Luncheon meat (optional)
 - Salt
 - Any other things you want to add
-    - For example, corn (personally don't like), shrimp, chicken (cooked) , <del>, and if you like you can add some hard drive or intel chips fragments. I myself like to add some python code segment, too. </del>
+    - For example, corn (personally don't like it), shrimp, chicken (cooked) , <del>, and if you like you can add some hard drive or intel chips fragments. I myself like to add some python code segment, too. </del>
 ## Preparation
 There are two ways to make fried rice, one is to cook the egg first then add rice to fry it. Another way is to "wrap" the egg liquid to the rice then fry them together. I personally like both. So I will show them all.
 
